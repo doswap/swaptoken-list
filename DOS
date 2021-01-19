@@ -1,0 +1,25 @@
+{
+"name": "DOS",
+"logoURI": "https://doswap.io/tokenlogo.png",
+"keywords": [
+"defi",
+"DEFI",
+"yield"
+    ],
+"timestamp": "2020-09-01T01:40:34.305Z",
+"tokens": [
+      {
+"chainId": 1,
+"address": "0x6214E5bCd5c035667a37a1a7441Ff9f3D5Be83a0",
+"name": "DOSwap.io",
+"symbol": "DOS",
+"decimals": 18,
+"logoURI": "https://doswap.io/tokenlogo.png"
+      }
+    ],
+"version": {
+"major": 0,
+"minor": 0,
+"patch": 0
+    }
+}
